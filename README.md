@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://github.com/arbp97/arbp97/raw/master/res/gif1.gif">
+</p>
 <div align="center">
 <h3>
     <i> Hello there! </i> 👋
