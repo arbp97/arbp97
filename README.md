@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/arbp97/arbp97/raw/master/res/gif1.gif">
+    <img src="https://svg-banners.vercel.app/api?type=textBox&text1=text%20Box%20🤖&width=800&height=400" alt="arbp97">
 </p>
 <div align="center">
 <h3>
