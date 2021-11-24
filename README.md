@@ -20,5 +20,5 @@
     <br><br>I mostly do web development, but everything related to coding is interesting to me. 
 </div>
 <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbp97)](https://github.com/anuraghazra/github-readme-stats)
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbp97&show_icons=true&theme=dark&locale=en&layout=compact" alt="arbp97" /></p>
 </div>
