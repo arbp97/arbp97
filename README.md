@@ -19,6 +19,7 @@
     <br>Looking forward to graduate and start working on things that interest me the most.
     <br><br>I mostly do web development, but everything related to coding is interesting to me. 
 </div>
+<br><br>
 <div align="center">
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbp97&show_icons=true&theme=dark&locale=en&layout=compact" alt="arbp97" /></p>
 </div>
