@@ -22,4 +22,5 @@
 <br><br>
 <div align="center">
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbp97&show_icons=true&theme=dark&locale=en&layout=compact" alt="arbp97" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/?username=arbp97&show_icons=true&theme=dark&locale=en&layout=compact" alt="arbp97" /></p>
 </div>
