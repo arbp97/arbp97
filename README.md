@@ -6,8 +6,7 @@
     <br>
     <br>I'm currently on my third year at university, 
     studying Licenciatura en Sistemas (Degree on Computer Systems). 
-    <br>Looking forward to graduate and start working on real, IT related projects.
-    <br><br>I mostly do web development, but everything related to programming is interesting to me. 
+    <br>I like learning, especially when it comes to programming and computers.
 </div>
 <br><br>
 <div align="center">
