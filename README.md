@@ -2,7 +2,7 @@
 <div align="left">
     <br>
     <h2>About me</h2>
-    <br>(Buenos Aires, Argentina 🇦🇷🧉)
+    <br>🇦🇷 🧉
     <br>
     <br>I'm currently on my third year at university, 
     studying Licenciatura en Sistemas (Degree on Computer Systems). 
