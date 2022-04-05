@@ -11,7 +11,7 @@
 </div>
 <br><br>
 <div align="center">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbp97&show_icons=true&theme=dark&locale=en&layout=compact" alt="arbp97" /></p>
-    <br>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/?username=arbp97&show_icons=true&theme=dark&locale=en&layout=compact" alt="arbp97" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbp97&exclude_repo=arbp97/btree-                                view&show_icons=true&theme=dark&locale=en&layout=compact" alt="arbp97" /></p>
+     <br>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/?username=arbp97&count_private=true&show_icons=true&theme=dark&locale=en&layout=compact" alt="arbp97" /></p>
 </div>
