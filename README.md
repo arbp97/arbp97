@@ -6,7 +6,7 @@
     <br>
     <br>I'm currently on my third year at university, 
     studying Licenciatura en Sistemas (Degree on Computer Systems). 
-    <br>I'm currently focusing on web and desktop development.
+    <br>My focus is web development, primarily.
     <br>I like learning, especially when it comes to programming and computers.
 </div>
 <br><br>
