@@ -1,4 +1,3 @@
-<p><img align="center" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=> web%20developer%20💻%20&width=1200&height=400" alt="arbp97"></p>
 <div align="left">
     <br>
     <h2>About me 🇦🇷 🧉 </h2>
