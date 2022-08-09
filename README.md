@@ -10,7 +10,7 @@
 </div>
 <br><br>
 
-<div style="display: flex; flex-direction: row;">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arbp97&show_icons=true&theme=dark&locale=en&layout=compact&exclude_repo=btree-view" alt="arbp97" />
- <img src="https://github-readme-stats.vercel.app/api/?username=arbp97&count_private=true&show_icons=true&theme=dark&locale=en&layout=compact" alt="arbp97" />
+<div style="height: fit-content; width: 100%; padding: 10px;display: flex; flex-direction: row; column-gap: 20px;justify-content: center; align-items: center;">
+ <img tyle="width: 10px; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbp97&show_icons=true&theme=dark&locale=en&layout=compact&exclude_repo=btree-view" alt="arbp97" />
+ <img style="width: 50%; height: auto;" src="https://github-readme-stats.vercel.app/api/?username=arbp97&count_private=true&show_icons=true&theme=dark&locale=en&layout=compact" alt="arbp97" />
 </div>
