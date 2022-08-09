@@ -1,6 +1,5 @@
 <div align="left">
-    <br>
-    <h2>About me 🇦🇷 🧉 </h2>
+    <h1>About me 🇦🇷 🧉 </h1>
     <br><img src="https://www.codewars.com/users/arbp97/badges/large" alt="arbp97" />
     <br>
     <br>I'm currently on my third year at university, 
